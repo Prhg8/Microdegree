@@ -1,2 +1,0 @@
-# Microdegree
-Test and Practice
